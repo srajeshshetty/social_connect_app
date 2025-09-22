@@ -1,0 +1,8 @@
+Improve navigation and layout components across the application
+
+This commit introduces updates to various UI components, including navigation menus, dialogs, and form elements, enhancing the overall user interface and structure of the application. It also adds new components like the `InputOTP` and `Resizable` utilities, expanding the available UI toolkit.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 6ffc878a-36e6-4a23-9385-1a167a05459c
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/fc4383a8-58ab-4bce-83e0-628e76de079a/6ffc878a-36e6-4a23-9385-1a167a05459c/jGWemzI
